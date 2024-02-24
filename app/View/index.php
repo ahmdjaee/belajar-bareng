@@ -1,13 +1,12 @@
-<?php
-
-use Modular\BelajarBareng\Login;
-use Modular\BelajarBareng\Register;
-
-require_once __DIR__ . '/../vendor/autoload.php';
-
-
-$login = new Login();
-$register = new Register();
-
-echo $login->login() . PHP_EOL;
-echo $register->register();
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style/style.css">
+</head>
+<body>
+    <h1>This is spartaaaa</h1>
+</body>
+</html>

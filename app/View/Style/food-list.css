@@ -2,6 +2,7 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     width: 20%;
+    background-color: white;
 }
 
 .card:hover {
@@ -12,13 +13,13 @@
     padding: 2px 16px;
 }
 
-.food-content{
+.food-content {
     max-width: 100vw;
     padding-inline: 20px;
     padding-block: 20px;
     background-color: aliceblue;
     display: flex;
     justify-content: center;
-    gap: 2rem;  
+    gap: 2rem;
     flex-wrap: wrap;
 }

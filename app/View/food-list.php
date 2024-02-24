@@ -24,8 +24,6 @@
             </div>
         <?php endfor; ?>
     </div>
-
-
 </body>
 
 </html>
